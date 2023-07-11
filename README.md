@@ -2,8 +2,9 @@
 
 This project is a simple, sleek, and responsive landing page built using Tailwind CSS. It's designed to showcase the basics of Tailwind CSS, with emphasis on its utility-first approach and highly customizable components.
 
-![Tailwind Landing Page Screenshot]([https://url-to-your-image.com/image.png](https://github.com/NastasyaZaytseva/tailwind-landing/assets/111123817/21f4414d-f3e3-4615-9f8c-8400db2c373f) "Screenshot of Tailwind Landing Page")
 
+
+![Tailwind Landing Page Screenshot](https://github.com/NastasyaZaytseva/tailwind-landing/assets/111123817/21f4414d-f3e3-4615-9f8c-8400db2c373f "Screenshot of Tailwind Landing Page")
 
 ## Features
 
